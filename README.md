@@ -16,7 +16,7 @@
 
 This is stuff i like to listen to--
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ii3sLA1yKJI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+https://www.youtu.be/Ii3sLA1yKJI
 
 I guess that's it!
 
